@@ -1,2 +1,2 @@
-# Image-Categorization-
+# Image-Categorization
 DL Project with Convolutional Neural Network
